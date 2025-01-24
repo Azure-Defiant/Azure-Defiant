@@ -7,7 +7,7 @@ Hi, I'm Josh! I'm an enthusiastic mobile developer dedicated to turning bold ima
 # 📊 GitHub Stats:
 <div align="left">
   <div style="display: inline-block; vertical-align: top;">
-     <img width="41%" height="390px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116oo79muv4un7c9rcgu3yctvmhjd5g4guqi70l8r2&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="padding-top: 20px;" />
+     <img width="41%" height="340px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116oo79muv4un7c9rcgu3yctvmhjd5g4guqi70l8r2&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="padding-top: 20px;" />
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Azure-Defiant&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     <br/>
     <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azure-Defiant&theme=dark&hide_border=true" />
